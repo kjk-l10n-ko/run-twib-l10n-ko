@@ -1,12 +1,12 @@
-# RUN: The world in-between 한글 패치 (v1.0) (2026-10-29)
+# RUN: The world in-between 한글 패치 (2026-10-29)
 
-게임 **RUN: The world in-between**(Steam, v1.0)의 비공식 한글 패치입니다.
+게임 **RUN: The world in-between**(Steam)의 비공식 한글 패치입니다.
 
 * 검수: 김작가
 * 작업/번역: Claude Sonnet 5.5/Deepseek v4 flash
 * 오류, 오타는 kimjakka96@gmail.com로 제보해주시면 수정 배포하도록 하겠습니다.
 
-[Steam](https://store.steampowered.com/app/1548940) · [최신 릴리스 다운로드](https://github.com/kjk-l10n-ko/run-twib-l10n-ko/releases/latest)
+<p align="center"><a href="https://store.steampowered.com/app/1548940">Steam🔗</a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://github.com/kjk-l10n-ko/run-twib-l10n-ko/releases/latest">Korean Patch Download⬇️</a></p>
 
 ## 설정 방법
 
