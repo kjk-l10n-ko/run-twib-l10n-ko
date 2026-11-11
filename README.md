@@ -22,11 +22,14 @@
 
 ## 사용 폰트
 
-* [Neo둥근모 (NeoDunggeunmo)](https://github.com/neodgm/neodgm) - Dalgona — 라이선스: [`assets/fonts/LICENSE-NeoDunggeunmo.txt`](assets/fonts/LICENSE-NeoDunggeunmo.txt)
-  * 게임의 영문 UI 글꼴(LanaPixel)을 대체해 한글을 표시함.
+| 폰트 | 제작자 | 라이선스 |
+|---|---|---|
+| [Neo둥근모 (NeoDunggeunmo)](https://github.com/neodgm/neodgm) | Dalgona | [OFL 1.1](assets/fonts/LICENSE-NeoDunggeunmo.txt) |
+
+* Neo둥근모 (NeoDunggeunmo): 게임의 영문 UI 글꼴(LanaPixel)을 대체해 한글을 표시함.
 
 ## 라이선스
 
 * 본 패치는 팬 번역이며 판매·유료 재배포를 금지함.
 * 게임의 저작권은 개발사 및 배급사 등 원 권리자에게 있으며, 본 패치는 공식과 무관함.
-* 폰트는 위 링크의 각 라이선스를 따름.
+* 폰트는 위 표의 각 라이선스를 따름.
