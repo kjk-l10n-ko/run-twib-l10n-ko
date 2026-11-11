@@ -1,0 +1,1156 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Run\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ja: 遥か昔から、己の苦しみに打ち勝つことのできなかった者たちの血が絶えず流れている。
+#. zh: 从原初起，那些无法克服内心阴影的人的鲜血就一直在此流淌。
+#. de: Das Blut jener, die ihre Verbitterung nicht bezwingen konnten, fließt seit Beginn an.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#0/0"
+msgid "The blood of those who couldn't defeat their bitterness flows since times forgotten."
+msgstr ""
+
+#. ja: 地平線に輝く滝へたどり着く者は、つきまとう妄想から浄化されるだろう。
+#. zh: 无论谁到达了照亮地平线的瀑布，他萦绕心间的困扰都将被净化。
+#. de: Jene, die den am Horizont glitzernden Wasserfall erreichen, werden von ihrem Wahn befreit.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#1/0"
+msgid "Whoever reaches the waterfall shining on the horizon shall see themselves purified from their obsessions."
+msgstr ""
+
+#. ja: すべてから遠く離れたその場所に、インターワールドはある。
+#. zh: 远离一切的地方即是“间”世界。
+#. de: Weit weg von allem liegt die Zwischenwelt.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#1/1"
+msgid "Far from all is the world in-between."
+msgstr ""
+
+#. ja: この不安定な場所は我々の過去の試練を再び呼び戻す。だが、その秘密のすべてを解明することはいまだ困難だ。
+#. zh: 这个混沌的地方映射了我们过去的阴影。不过，要揭开它的秘密却非常困难。
+#. de: Dieser unbeständige Ort konfrontiert uns mit allem, was uns plagt, und doch bleibt es schwierig, seine Geheimnisse aufzudecken.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#1/2"
+msgid "This unsteady place seems to cast back our previous trials at us, but it's still difficult to unveil all its secrets."
+msgstr ""
+
+#. ja: 後悔にさいなまれ、戦うことに疲れ果てた者たちは、今や灰となり彷徨っている。
+#. zh: 其中一些陷于懊悔之中，疲于战斗，其他的则化作灰烬游荡世间。
+#. de: Die anderen waren voller Bedauern, zu müde zum Kämpfen und wandern jetzt als Aschewesen umher.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#1/3"
+msgid "Overwhelmed by remorses and grudges, too tired to fight, the defeated still wander as being made of ashes."
+msgstr ""
+
+#. ja: 己の恨みと怒りを超越できた者は数少ない。
+#. zh: 很少有人能成功克服自己的怨恨与愤怒。
+#. de: Nur wenige können ihren Groll und ihre Wut überwinden.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#1/4"
+msgid "Few are those capable of defeating their resentment and anger."
+msgstr ""
+
+#. ja: 希望を失うな。
+#. zh: 不要放弃希望。
+#. de: Verliere nicht die Hoffnung.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#8/0"
+msgid "Don't lose hope."
+msgstr ""
+
+#. ja: 誰一人として戻ってきたことのないこの漠然とした場所は、ただの架け橋のようだ。
+#. zh: 这个混沌而有去无回的地方似乎只是一道门户。
+#. de: Dieser trübe Ort, von dem niemand zurückkehrt, scheint nur eine Brücke zu sein.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#8/1"
+msgid "This nebulous place no one returns from seems to be just a gateway."
+msgstr ""
+
+#. tokens: \n
+#. ja: 彼らの魂と記憶はいくつもの断片に封印され、敗北した場所に眠っている。
+#. それらを取り戻せば、失われた記憶が蘇るだろう。
+#. zh: 他们的灵魂与记忆被封印在碎片里，沉睡于他们失败的场所。
+#. 拾起碎片将唤醒丢失的记忆。
+#. de: Ihre Seelen und Erinnerungen befinden sich als Fragmente auf dem Boden, am Ort ihres letzten Scheiterns. 
+#. Wenn sie gefunden werden würden, könnte man verlorene Erinnerungen zurückgewinnen.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#8/2"
+msgid ""
+"Their souls and memories, sealed as fragments lay forgotten where they drew their last breath. \n"
+"Retrieving them could reanimates some lost remembrances."
+msgstr ""
+
+#. ja: 神秘の石碑はこれらの出来事の目撃者にすぎないだろう。
+#. zh: 神秘的石碑将见证这一切。
+#. de: Die geheimnisvolle Stele wird ihr Zeuge sein.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#9/0"
+msgid "The mysterious headstone, of these events will be the witness."
+msgstr ""
+
+#. ja: 地面は動き、足を踏み入れた何人をも無に帰す。
+#. zh: 大地不断震动，没人能从这里走出去。
+#. de: Der Boden bewegt sich und richtet jeden zugrunde, der sich ihm entgegenstellt.
+#: res://assets/trad/Game_intro_text.en.translation
+msgctxt "Game_intro_text#9/1"
+msgid "The ground is moving and crushing whoever tries to traverse it."
+msgstr ""
+
+#. tokens: \n
+#. ja: ...
+#. 構わないでくれと言ったじゃろう。
+#. もうこれ以上何もすることはないのじゃ。
+#. ...
+#. どんな記憶を蘇らせたかを見るのに気を取られて、注意しとらんかったのじゃ。
+#. 岩が崩れて、振り返った時にはもう犬の姿が見えなかったのじゃ... 
+#. とても長い旅をあやつと一緒にしてきた...
+#. どうか、構わないでおくれ。
+#. zh: ……
+#.  都跟你说了，让我去吧。
+#.  我在这没有什么能做的事了。
+#.  ……
+#.  我急着想看看我重现出了什么记忆，结果没有留神。
+#.  当我转身时石头掉了下来，我的狗不见了......
+#.  我和他一路走了这么远……
+#.  现在你让我一个人待着吧。
+#. de: …
+#.  Ich habe gesagt, lass mich allein.
+#.  Nichts hält mich mehr an diesem Ort.
+#.  …
+#.  Ich wollte so dringend sehen, welche Erinnerungen ich zurückgeholt hatte, dass ich es nicht bemerkt hab.
+#.  Das Gestein ist heruntergefallen und als ich mich umdrehte, war mein Hund verschwunden …
+#.  Wir waren so lange zusammen gereist …
+#.  Bitte geh jetzt.
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#0/0"
+msgid ""
+"...\n"
+" I told you to leave me alone.\n"
+" I don’t have anything left to do in this place anymore.\n"
+" ...\n"
+" I was so impatient to see which memories I brought back that I didn't pay attention.\n"
+" The rocks under my feet fell down and when I turned around, my dog had disappeared...\n"
+" I’ve had such a long journey with him...\n"
+" Please, leave me now."
+msgstr ""
+
+#. tokens: \n
+#. ja: またおぬしか！
+#. 石碑とガラスのオーブを見たんじゃないかね？ 
+#. 何！もう2つ満たしただと？信じられん！
+#. おぬしには本当に可能性を秘めておるのじゃな！
+#. よければ、この場所についてわしが知っているすべてを話そう。
+#. わしの理解したところでは、地面は絶えず動いておる。前進すればするほど、多くの者が屈服するので、灰の山の間に道を見つけるのは困難になる。
+#. ルートの開始時の石碑？もちろん！ 
+#.  個人的なもので、おぬしの進歩を反映し、7つのオーブがある。
+#. それらが満たされるとどうなるかじゃと？ 
+#.  うーむ... 
+#. わからぬ。そうなれば、大きな白い閃光につつまれて、すべて爆発するかもしれぬな…ふぉふぉふぉ…。
+#. いや、実際にはわからぬ。
+#. じゃが、あの小さな浮遊宝石、あれについては知っておるぞ！
+#.  あれは失われた記憶の断片じゃ。
+#. とてもに簡単に集められるぞ。
+#. それから、岩が崩れているところが見えるかね？ 
+#. あそこから沢山の記憶が風景の中に溢れるのじゃ。まあ、あまり役に立たないのじゃが、個人的には一番好きなんじゃ！
+#. それに見入っている時間があまりないのが残念じゃな。わしらを追いかけてくる悪魔どもがおるからのう。
+#. 悪魔？ ああ、知っておるかと思っとったわい。
+#. 簡単に言えば、やつらはわしらの中の一番悪いものからできておって、この場所はわしらをそれと向き合わせようとするのじゃ。
+#. この滝にたどり着けば休息を得られるのじゃが、それは束の間じゃ... 
+#. さて、再会できて嬉しかった。おぬしのおかげで力が出たぞ。わしは新しいオーブを満たしに行くぞ！
+#. zh: 又是你！
+#.  你看到石碑和玻璃球体了？
+#.  什么！你已经填满两个了？这简直不可置信！
+#.  看来你有真正的潜力啊！
+#.  如果你愿意，我可以告诉你我知道的所有关于这个地方的事。
+#.  据我所知，地面一直在变动。越往前走就会有越多的人放弃，因而很难在这些遗骸堆中找到路。
+#.  路口处的石碑？我当然知道！
+#.  它反映了你个人的进度，共有7个球体。
+#.  它们填满后会发生什么？
+#.  ……呃……
+#.  我不了解，也许一切都会在一束白光中爆炸，嘿嘿……
+#.  不，我真不知道。
+#.  不过那些漂浮的小宝石，我倒是了解！
+#.  它们是失去记忆的碎片。
+#.  你很容易就可以收集到它们。
+#.  然后，你看到岩石倒塌的地方了吗？
+#.  那些记忆会在风景中重现，这没有什么用处，但就我个人而言，这是我最喜欢的时光！
+#.  可惜因为这些追赶我们的恶魔，都没有太多时间去欣赏它们。
+#.  那些恶魔？啊！我以为你知道他们。
+#.  简单地说，他们是由我们心最坏的部分组成的，而这个地方正试图让我们面对它。
+#.  当我们到达这个瀑布时，可以得到片刻的休息。但这是暂时的……
+#.  好啦，很高兴再次见到你，你给了我力量，我要去努力填满一个新的球体！
+#. de: Du schon wieder!
+#.  Du hast den Stein und seine Glaskugeln gesehen, nicht?
+#.  Wie, du hast schon zwei gefüllt? Unglaublich!
+#.  Du hast tatsächlich Potenzial!
+#.  Wenn du willst, kann ich dir alles erzählen, was ich über diesen Ort weiß.
+#.  Der Boden scheint sich ständig zu bewegen. Je weiter du vorankommst, desto mehr Menschen werden aufgegeben haben, deswegen ist es schwer, einen Weg zwischen den Aschebergen zu finden.
+#.  Der Stein am Anfang des Weges? Natürlich!
+#.  Er ist persönlich, spiegelt deinen Fortschritt wider und verfügt über 7 Kugeln.
+#.  Was passiert, wenn sie gefüllt sind?
+#. … Äh …
+#.  Keine Ahnung, vielleicht explodiert alles in einem gigantischen Blitz. Hehehe …
+#.  Im Ernst, ich weiß es nicht.
+#.  Über die kleinen schwebenden Edelsteine dagegen weiß ich was!
+#.  Sie sind Teile von verlorenen Erinnerungen.
+#.  Es ist fast spielend leicht, sie zu sammeln.
+#.  Und dann, siehst du den Ort, wo das Gestein zusammengebrochen ist?
+#.  Erinnerungen finden sich in der Landschaft wieder. Sie sind nicht nützlich, aber ich mag sie.
+#.  Schade, dass wir wegen dieser Dämonen nicht genug Zeit haben, um ihn uns anzuschauen. 
+#.  Dämonen? Ah! Ich dachte, du wüsstest das.
+#.  Kurz gesagt sind sie das Übelste unserer Selbst und dieser Ort möchte uns damit konfrontieren.
+#.  Wir genießen einen Moment der Ruhe, wenn wir diesen Wasserfall erreichen. Aber er ist nur flüchtig …
+#.  Na ja, es war ein Vergnügen, dich wieder zu treffen. Du hast mir wieder Mut gemacht. Ich versuche, eine neue Kugel zu füllen!
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#6/0"
+msgid ""
+"You again!\n"
+" You saw the stone and its glass orbs, didn’t you?\n"
+" What! You’ve already filled two? That’s amazing!\n"
+" You’ve got some real potential after all!\n"
+" If you want, I can tell you everything I know about this place.\n"
+" From what I could grasp, the ground is shifting constantly. The more you travel, the more people will have surrendered, so it's difficult to find a way between these heaps of ashes.\n"
+" The stone at the beginning of the path? Of course!\n"
+" It’s personal, reflects your progression and includes 7 orbs.\n"
+" What is happening when they are filled?\n"
+" ...Humm...\n"
+" No idea, maybe everything will explode with a big white flash of light, hehehe...\n"
+" No, actually I don’t know.\n"
+" The little floating gems that I know!\n"
+" Those are fragments of lost memories.\n"
+" You can gather them up along the way.\n"
+" Then, do you see where the ground is collapsing?\n"
+" Memories will flash back into the landscape, it’s not really anything useful but it’s one of the things that I like around here.\n"
+" Too bad there's not enough time to appreciate it with those demons following us. \n"
+" Demons? Ah! I thought you were aware of that.\n"
+" To put it simply, they are composed of the worst parts of ourselves and this place is trying to confront us with them.\n"
+" We obtain a moment of rest by reaching this waterfall. But it’s temporary...\n"
+" Well, it was a pleasure to see you again, you reinvigorated me, I’ll try to fill a new orb!"
+msgstr ""
+
+#. tokens: \n
+#. ja: おい！また会えて嬉しいぞ。元気かね？ 
+#. 3つのオーブ！！！凄いじゃないか？！わしの方は本当に才能がないんじゃのう！
+#. ...
+#. ...
+#. ...お願いがあるのじゃが。
+#. このちびの世話をしてやってほしいのじゃが、おぬしならきっとこやつをここから連れ出してやることができるじゃろう。
+#. ...じゃが、こやつをおぬしに任せれば、わしはもう終わりじゃ...わしには成し遂げることができぬ。
+#. こやつより先にだめになって、ここにひとり残してしまうのがとても怖いのじゃ...
+#. ...
+#. そうじゃ、おぬしの言う通りじゃ。わしも乗り越えてみせよう。
+#. 少なくとも、まあ、そう願っておる。
+#. zh: 嘿！很高兴再见到你！你好吗？
+#.  3个球体！不是吧！？我一定是真的很菜！
+#.  ……
+#.  ……
+#.  ……我能求你一件事吗？
+#.  我希望你能照顾我的小伙伴，我相信你能把他带出去的。
+#.  ……不过，如果我把他交给你，那我就完了……我肯定永远也出不去了。
+#.  我怕在他之前自己就崩溃了，把他独自留在这里……
+#.  ……
+#.  你说得对，我最终会度过难关的。
+#.  至少我希望可以。
+#. de: Hey! Ich freue mich, dich wiederzusehen. Wie geht es dir?
+#.  Drei Kugeln!!! Nein, oder!? Ich muss ja richtig schlecht sein!
+#.  …
+#.  …
+#.  … Kann ich dich um etwas bitten?
+#.  Kümmere dich bitte um meinen kleinen Gefährten, du schaffst es sicher, von hier zu fliehen.
+#.  … Aber wenn ich ihn bei dir lasse, wäre das mein Ende … Ich würde es nie schaffen.
+#.  Ich habe solche Angst, dass ich vor ihm zusammenbreche und ihn allein lasse …
+#.  …
+#.  Du hast Recht, ich werde irgendwann hier rauskommen.
+#.  Zumindest hoffe ich das.
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#7/0"
+msgid ""
+"Hey! I’m glad to see you again. How are you doing?\n"
+" 3 orbs!!! No way!? I must be really bad!\n"
+" ...\n"
+" ...\n"
+" ...Can I ask you something?\n"
+" I’d like you to take care of my little companion, I’m sure that you can get it out of here.\n"
+" ...But at the same time, if I leave it with you, it'd be the end of me... I’ll never make it.\n"
+" I’m so afraid of collapsing and just leaving it here alone...\n"
+" ...\n"
+" Yes you’re right, I’ll eventually make it out.\n"
+" Well, I hope so."
+msgstr ""
+
+#. tokens: \n
+#. ja: ああ！やはり音がしたと思ったわい！
+#. 大丈夫かね？なんとかやってるか？
+#. わしの名はソルガルじゃが、爺と呼ぶがよい。おぬしの名は...？
+#.  ... 
+#. 言葉がわからないのかね？
+#. 目がそうだと言っておるな。
+#. 警戒しているのじゃな。ここではすべてが敵に見えるからのう。
+#.  それに、ここで人に会うことはますます少なくなっておるからのう。
+#. おぬしも血が流れる洞窟から来たのじゃろう？
+#. うむ、では、おぬしは自分の意に反してある種の契約を交わしたことを知っておるな。じゃが、じきに慣れるじゃろう。
+#. いずれにせよ、この迷路は難しいようじゃから、忍耐強いことを願っておるぞ。
+#. 山の向こうに何があるのか​​はわからんのじゃが、この小汚い犬っころのせいで進むのが難しいのじゃ。
+#. わしが諦めかけていた時、この小さなかわいい毛むくじゃらがわしを救ってくれたのじゃ... 
+#. それ以来、切っても切れない縁なのじゃ。 
+#. さて、わしらが追い出されるまでにもう時間がないようじゃが、また会えることを願っておる。
+#. 最後の助言じゃ。カスケードを渡るときは、捕まらぬよう、できるだけ速く行きなされ！
+#. zh: 啊！我就说我听到了响动！
+#.  你还好吗？
+#.  我叫Sorghal，不过你可以叫我老伙计，你是？
+#.  ……
+#.  你不会讲我的语言？
+#.  从你的眼神里我看得出你其实懂我说的话。
+#.  我理解你的不信任，这里的一切都似乎充满敌意。
+#.  尤其是现在我们遇到的人越来越少。
+#.  你也来自血流成河的洞窟吗？
+#.  是了，所以你知道自己被迫缔结了某个契约。不过看着吧，你最终会适应的。
+#.  总之，这迷宫非常复杂，我希望你有足够的耐心。
+#.  我一直没能看到山那边的东西，但带着这条破狗实在难以前进。
+#.  这个小毛球在我就要不行的时候救了我......
+#.  从那以后我们就分不开了。
+#.  嗯，我感觉留给我们的时间不多了，但我希望我们能再见。
+#.  最后一条建议：穿越瀑布的时候要全速前进，否则会被烧焦的！
+#. de: Ah! Ich war mir sicher, ich hätte etwas gehört!
+#.  Wie geht es dir? Kommst du zurecht? 
+#.  Ich heiße Sorghal, aber du kannst mich den Alten nennen. Und du bist …? 
+#.  …
+#.  Sprichst du meine Sprache nicht?
+#.  Dein Blick verrät mir, dass du es tust.
+#.  Ich verstehe deine Vorsicht, hier unten scheint alles feindselig zu sein.
+#.  Besonders, da wir hier immer weniger Menschen antreffen.
+#.  Du kommst auch aus der Höhle, wo das Blut fließt, oder?
+#.  Gut, dann weißt du, dass du gegen deinen Willen eine Art Pakt geschlossen hast. Du wirst dich aber noch daran gewöhnen.
+#.  Jedenfalls hoffe ich, dass du für dieses Labyrinth Geduld mitbringst.
+#.  Ich kann immer noch nicht sehen, was hinter dem Berg liegt, und dieser blöde Hund macht das Vorankommen nicht leichter.
+#.  Dieses kleine Fellknäuel rettete mich, als ich fast aufgab …
+#.  Seitdem sind wir unzertrennlich.
+#.  Nun, ich glaube, wir haben nicht mehr viel Zeit, bis wir wieder zurückgeholt werden. Hoffentlich sehen wir uns wieder.
+#.  Ein letzter Tipp: Um die Ströme zu durchqueren, beweg dich so schnell wie möglich, damit du nicht verbrennst!
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#8/0"
+msgid ""
+"Ah! I was sure that I heard something!\n"
+" How are you? Are you getting by ? \n"
+" My name is Sorghal, but you can call me The Old One, and you are...? \n"
+" …\n"
+" You don’t speak my language?\n"
+" I can see from the look in your eyes that you do.\n"
+" I understand that you’re suspicious, down here everything seems hostile.\n"
+" Especially since we encounter less and less people here.\n"
+" You're are also coming from the cave where the blood flows, right?\n"
+" Okay, so you’re aware that you’ve signed sort of pact against your will. You’ll see, you end up getting used to it.\n"
+" Either way, I hope that you’ve got some patience given the structure of this labyrinth.\n"
+" I still struggle seeing what’s over the mountain, but going forward is difficult with this stupid dog.\n"
+" That tiny ball of fur saved me while I was about to give in...\n"
+" Since then we’re inseparable.\n"
+" Well, I feel we only have little time left before being repatriated, still I hope we’ll meet again.\n"
+" One last piece of advice, to cross the cascades, go as fast as you can not to get burnt !"
+msgstr ""
+
+#. tokens: \n
+#. ja: これはこれは！
+#. やはりまた会うと思っていたぞ！
+#. おぬしは元気にしていたかね？
+#. ここで前進することはいつも少し難しいのじゃが、決して諦めてはいけないぞ。
+#. たくさんの迷える魂に出くわしたんじゃないかね？
+#. あの脂玉の中には旧友もいての...
+#. 聞いておくれ、ほとんどは真の恐いもの知らずだったのじゃ。だが少しずつ希望を失い、戦いをやめるのを、わしは見てきたのじゃ。
+#. 噂によると、わしらを待ち受けるものは、想像を絶するものだそうじゃ。
+#. そこに辿り着いた者がいるのかさえもわからぬ！
+#. いずれにしても英気を損なうつもりはないのじゃが、とにかくまた会えることを願っておる。
+#. zh: 看吧，看吧！
+#.  我就知道咱们一定会再见面的。
+#.  你还坚持得住吗？
+#.  千万别放弃，尽管在这里前进总是很艰难。
+#.  我估计你遇到了一堆游魂，是吧？
+#.  有些煤烟球可是老朋友……
+#.  相信我，他们大部分曾经都头脑发热，但我看着他们一点点丧失信仰并且停止战斗。
+#.  一些游魂认为，等待着我们的世界远远超越我们的想象。
+#.  我甚至不知道是否有人到达过那里。
+#.  我也不想削弱你的斗志，我希望还能遇见安然无恙的你。
+#. de: Sieh an, sieh an!
+#.  Ich wusste, unsere Wege würden sich hier erneut kreuzen!
+#.  Wie kommst du voran?
+#.  Gib niemals auf, auch wenn es wirklich schwer ist, sich hier vorwärts zu bewegen.
+#.  Ich vermute mal, dass du schon viele verlorene Seelen gefunden hast, oder?
+#.  Ein paar dieser Bälle aus Ruß sind alte Freunde … 
+#.  Glaub mir, die meisten waren Hitzköpfe und ich habe miterlebt, wie sie langsam den Mut verloren und aufhörten, zu kämpfen.
+#.  Einige meinen, dass das, was uns dort draußen erwarte, jenseits unserer Vorstellungskraft sei.
+#.  Ich weiß nicht einmal, ob es jemand jemals dorthin geschafft hat!
+#.  Nun, ich will dir nicht die Laune vermiesen, aber ich würde dich gerne in einem Stück wiedersehen.
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#9/0"
+msgid ""
+"Well well well!\n"
+" I knew our paths would cross again here!\n"
+" How are you hanging in there ?\n"
+" Never give up, even if it’s true that moving forward here is always a bit difficult.\n"
+" I suppose that you’ve already encountered lots of lost souls, didn't you?\n"
+" Some of those soot balls are old friends… \n"
+" Believe me, most of them were hotheads, and step by step I saw them losing their faith and ceasing to fight.\n"
+" According to some, what awaits us out there is beyond everything you can ever imagine.\n"
+" I don’t even know if somebody ever reached it!\n"
+" Well, I don’t want to break the mood, but I wish I can see you again all in one piece."
+msgstr ""
+
+#. tokens: \n
+#. ja: ...
+#. ...わしに構うな。
+#.  構わないでおくれ。
+#.  あやつなしでは決して成し遂げられぬ...
+#. zh: ......
+#.  ......让我去吧。
+#.  别管我了。
+#.  没有他我肯定不行的……
+#. de: …
+#.  Lass mich allein.
+#.  Lass mich bitte allein.
+#.  Ich werde es nie ohne ihn schaffen …
+#: res://assets/trad/friend_dialogs_text.en.translation
+msgctxt "friend_dialogs_text#12/0"
+msgid ""
+"...\n"
+" Leave me alone.\n"
+" Leave me alone please.\n"
+" I’ll never make it through without him..."
+msgstr ""
+
+#. ja: 難易度「地獄」がアンロックされました
+#. zh: 地狱难度解锁
+#. de: Schwierigkeitsstufe „Höllisch“ freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#1/0"
+msgid "Infernal difficulty unlocked"
+msgstr ""
+
+#. ja: ダッシュ
+#. zh: 冲刺
+#. de: Flitzen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#6/0"
+msgid "dash"
+msgstr ""
+
+#. ja: ジャンプ
+#. zh: 跳跃
+#. de: Springen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#7/0"
+msgid "jump"
+msgstr ""
+
+#. ja: カットシーンなし？
+#. zh: 无过场动画吗 ？
+#. de: Ohne zwischensequenz ?
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#8/0"
+msgid "Without cutscene ?"
+msgstr ""
+
+#. ja: 地獄
+#. zh: 地狱
+#. de: „Höllisch“
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#9/0"
+msgid "Infernal"
+msgstr ""
+
+#. ja: 難易度「悪夢」がアンロックされました
+#. zh: 噩梦难度解锁
+#. de: Schwierigkeitsstufe „Albtraum“ freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#10/0"
+msgid "Nightmare difficulty unlocked"
+msgstr ""
+
+#. ja: スピードランモードがアンロックされました
+#. zh: 快速模式解锁
+#. de: Speedrun-Modus freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#10/1"
+msgid "Speedrun mode unlocked"
+msgstr ""
+
+#. ja: 通常のテキスト
+#. zh: 常规文字
+#. de: Normaler Text
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#10/2"
+msgid "Normal text"
+msgstr ""
+
+#. ja: ランダムシード？
+#. zh: 随机种子？
+#. de: Zufälliger Samen ?
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#11/0"
+msgid "Random seed ?"
+msgstr ""
+
+#. ja: 難易度「悪夢」のスピードランモードがアンロックされました
+#. zh: 噩梦快速模式解锁
+#. de: Albtraum-Speedrun freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#13/0"
+msgid "Nightmare Speedrun unlocked"
+msgstr ""
+
+#. ja: スピードランモード：S／SELECTボタン
+#. zh: 快速模式：s/选择
+#. de: Schnelldurchlauf-Modus: S / Select
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#13/1"
+msgid "Speedrun mode : s / select"
+msgstr ""
+
+#. ja: 垂直同期：オフ
+#. zh: 垂直同步：关
+#. de: VSYNC: aus
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#14/0"
+msgid "VSYNC : off"
+msgstr ""
+
+#. ja: 承諾する
+#. zh: 确认
+#. de: Annehmen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#14/1"
+msgid "Accept"
+msgstr ""
+
+#. ja: 終了する
+#. zh: 退出
+#. de: Verlassen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#15/0"
+msgid "Exit"
+msgstr ""
+
+#. ja: 統計
+#. zh: 数据
+#. de: Statistik
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#16/0"
+msgid "Stats"
+msgstr ""
+
+#. ja: ファイルを削除しますか？
+#. zh: 删除存档？
+#. de: Die Datei löschen?
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#17/0"
+msgid "Delete file ?"
+msgstr ""
+
+#. ja: ゲームを終了しますか？
+#. zh: 退出游戏？
+#. de: Das Spiel verlassen?
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#18/0"
+msgid "Quit Game ?"
+msgstr ""
+
+#. ja: 戻る
+#. zh: 返回
+#. de: Zurück
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#19/0"
+msgid "Back"
+msgstr ""
+
+#. ja: 言語
+#. zh: 语言
+#. de: Sprache
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#20/0"
+msgid "Language"
+msgstr ""
+
+#. ja: 点滅あり
+#. zh: 有闪光
+#. de: Mit Lichtblitzen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#22/0"
+msgid "With flashes"
+msgstr ""
+
+#. ja: クレジット
+#. zh: 致谢名单
+#. de: Mitwirkende
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#23/0"
+msgid "Credits"
+msgstr ""
+
+#. ja: スペシャルサンクス:
+#. zh: 特别鸣谢：
+#. de: Besonderer Dank an:
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#23/1"
+msgid "Special Thanks :"
+msgstr ""
+
+#. ja: イタリア語
+#. zh: 意大利语
+#. de: Italienisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#24/0"
+msgid "Italian"
+msgstr ""
+
+#. ja: スピードラン
+#. zh: 快速模式
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#24/1"
+msgid "Speedrun"
+msgstr ""
+
+#. ja: 最大75FPS
+#. zh: 最大帧率75
+#. de: Max. 75 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#25/0"
+msgid "75 FPS max"
+msgstr ""
+
+#. ja: 中国語
+#. zh: 简体中文
+#. de: Chinesisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#26/0"
+msgid "Chinese"
+msgstr ""
+
+#. ja: オランダ語
+#. zh: 荷兰语
+#. de: Niederländisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#27/0"
+msgid "Dutch"
+msgstr ""
+
+#. ja: ドイツ語
+#. zh: 德语
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#31/0"
+msgid "Deutsch"
+msgstr ""
+
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#31/1"
+msgid "Invalid Seed"
+msgstr ""
+
+#. ja: 英語
+#. zh: 英语
+#. de: Englisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#32/0"
+msgid "English"
+msgstr ""
+
+#. ja: 最大60FPS
+#. zh: 最大帧率60
+#. de: Max. 60 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#33/0"
+msgid "60 FPS max"
+msgstr ""
+
+#. ja: 鳥の道のロックが解除されました
+#. zh: 鸟儿之路已解锁
+#. de: Path of Birds freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#34/0"
+msgid "Path of Birds unlocked"
+msgstr ""
+
+#. ja: クラシックラン
+#. zh: 经典模式
+#. de: Normaler Durchlauf
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#34/1"
+msgid "Classic Run"
+msgstr ""
+
+#. ja: パーティクルなし
+#. zh: 无颗粒
+#. de: Ohne Teilchen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#34/2"
+msgid "Without particles"
+msgstr ""
+
+#. ja: インフィニティラン
+#. zh: 无限模式
+#. de: Endlosdurchlauf
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#35/0"
+msgid "Infinite Run"
+msgstr ""
+
+#. ja: パーティクルあり
+#. zh: 有颗粒
+#. de: Mit Teilchen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#35/1"
+msgid "With particles"
+msgstr ""
+
+#. ja: スピードラン
+#. zh: 快速模式
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#36/0"
+msgid "Speedrun"
+msgstr ""
+
+#. ja: スペイン語
+#. zh: 西班牙语
+#. de: Spanisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#37/0"
+msgid "Spanish"
+msgstr ""
+
+#. ja: ロシア語
+#. zh: 俄语
+#. de: Russisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#37/1"
+msgid "Russian"
+msgstr ""
+
+#. ja: ストレスフリーモード？これはメニューで有効化できます。
+#. zh: 无压力模式？此选项可在暂停菜单中勾选。
+#. de: Der stressfreie Modus kann im Pausenmenü eingeschaltet werden.
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#37/2"
+msgid "No Stress Mode? This can be enabled in the Pause menu."
+msgstr ""
+
+#. ja: ストレスフリーモードを有効化
+#. zh: 启用无压力模式
+#. de: Stressfreien Modus einschalten
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#38/0"
+msgid "Enable No Stress Mode"
+msgstr ""
+
+#. ja: ストレスフリーモードを有効化
+#. zh: 启用无压力模式
+#. de: Stressfreien Modus einschalten
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#39/0"
+msgid "Enable No Stress Mode"
+msgstr ""
+
+#. ja: ストレスフリーモードを無効化
+#. zh: 取消无压力模式
+#. de: Stressfreien Modus ausschalten
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#40/0"
+msgid "Disable No Stress Mode"
+msgstr ""
+
+#. ja: 最大30FPS
+#. zh: 最大帧率30
+#. de: Max. 30 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#41/0"
+msgid "30 FPS max"
+msgstr ""
+
+#. ja: 記憶が再浮上します...
+#. zh: 一段记忆浮现……
+#. de: Eine Erinnerung kommt zurück…
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#41/1"
+msgid "A memory resurfaces..."
+msgstr ""
+
+#. ja: 難易度「残虐」がアンロックされました
+#. zh: 野蛮难度解锁
+#. de: Schwierigkeitsstufe „Brutal“ freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#42/0"
+msgid "Brutal difficulty unlocked"
+msgstr ""
+
+#. ja: スプライトのアウトラインなし
+#. zh: 无轮廓
+#. de: Keine Sprite-Kontur
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#42/1"
+msgid "No sprites outline"
+msgstr ""
+
+#. ja: スプライトのアウトライン
+#. zh: 有轮廓
+#. de: Sprite-Kontur
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#43/0"
+msgid "Sprites outline"
+msgstr ""
+
+#. ja: 最大FPSなし
+#. zh: 无最大帧率
+#. de: Keine max. Bildfrequenz
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#44/0"
+msgid "No max FPS"
+msgstr ""
+
+#. ja: シードなし
+#. zh: 无种子
+#. de: Kein Samen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#46/0"
+msgid "No seed"
+msgstr ""
+
+#. ja: 最大120FPS
+#. zh: 最大帧率120
+#. de: Max. 120 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#47/0"
+msgid "120 FPS max"
+msgstr ""
+
+#. ja: 難易度「残虐」のスピードランモードがアンロックされました
+#. zh: 野蛮快速模式解锁
+#. de: Brutaler Speedrun freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#50/0"
+msgid "Brutal Speedrun unlocked"
+msgstr ""
+
+#. ja: 垂直同期：オン
+#. zh: 垂直同步：开
+#. de: VSYNC: an
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#51/0"
+msgid "VSYNC : on"
+msgstr ""
+
+#. ja: フランス語
+#. zh: 法语
+#. de: Französisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#53/0"
+msgid "French"
+msgstr ""
+
+#. ja: トルコ語
+#. zh: 土耳其语
+#. de: Türkisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#55/0"
+msgid "Turkish"
+msgstr ""
+
+#. ja: ポルトガル語（ブラジル）
+#. zh: 葡萄牙语（巴西）
+#. de: Brasilianisches Portugiesisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#58/0"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#. ja: 可変
+#. zh: 可调整尺寸
+#. de: Größenverstellbar
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#59/0"
+msgid "Resizable"
+msgstr ""
+
+#. ja: 画面の揺れ:なし
+#. zh: 屏幕晃动：否
+#. de: Bildschirmwackeln: Aus
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#60/0"
+msgid "Screenshake : no"
+msgstr ""
+
+#. ja: 画面の揺れ:あり
+#. zh: 屏幕晃动：是
+#. de: Bildschirmwackeln: An
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#61/0"
+msgid "Screenshake : yes"
+msgstr ""
+
+#. ja: 日本語
+#. zh: 日语
+#. de: Japanisch
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#63/0"
+msgid "Japanese"
+msgstr ""
+
+#. ja: ローカリゼーション:
+#. zh: 翻译：
+#. de: Lokalisierung:
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#63/1"
+msgid "Localization :"
+msgstr ""
+
+#. ja: 残虐
+#. zh: 野蛮
+#. de: "Brutal"
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#66/0"
+msgid "Brutal"
+msgstr ""
+
+#. ja: 振動なし
+#. zh: 无振动
+#. de: Mit Vibration
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#67/0"
+msgid "Without vibrations"
+msgstr ""
+
+#. ja: 難易度「地獄」のスピードランモードがアンロックされました
+#. zh: 地狱快速模式解锁
+#. de: Höllischer Speedrun freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#67/1"
+msgid "Infernal Speedrun unlocked"
+msgstr ""
+
+#. ja: インフィニティランモードがアンロックされました
+#. zh: 无限模式解锁
+#. de: Endlosdurchlauf freigeschaltet
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#68/0"
+msgid "Infinite Run unlocked"
+msgstr ""
+
+#. ja: プレイヤーのアウトライン
+#. zh: 玩家轮廓
+#. de: Spielerkontur
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#69/0"
+msgid "Player outline"
+msgstr ""
+
+#. ja: 最大144FPS
+#. zh: 最大帧率144
+#. de: Max. 144 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#70/0"
+msgid "144 FPS max"
+msgstr ""
+
+#. ja: 新しいゲーム
+#. zh: 新一轮
+#. de: Neuer Durchlauf
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#73/0"
+msgid "New Run"
+msgstr ""
+
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#74/0"
+msgid "Path of Birds"
+msgstr ""
+
+#. ja: スキップ
+#. zh: 跳过
+#. de: Überspringen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#74/1"
+msgid "Skip"
+msgstr ""
+
+#. ja: キーを押してください。
+#. zh: 请按任意按键
+#. de: Drücke eine beliebige Taste
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#75/0"
+msgid "Press any key"
+msgstr ""
+
+#. ja: 本作はコントローラー向けにデザインされています
+#. zh: 本游戏应使用手柄操作
+#. de: Dieses Spiel ist auf Gamepads ausgelegt
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#76/0"
+msgid "This game is designed for gamepad"
+msgstr ""
+
+#. ja: コントロール
+#. zh: 操控
+#. de: Steuerung
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#77/0"
+msgid "Controls"
+msgstr ""
+
+#. ja: ビデオ
+#. zh: 视频
+#. de: Grafik
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#78/0"
+msgid "Video"
+msgstr ""
+
+#. ja: サウンド
+#. zh: 音频
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#79/0"
+msgid "Audio"
+msgstr ""
+
+#. ja: 設定
+#. zh: 选项
+#. de: Einstellungen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#80/0"
+msgid "Settings"
+msgstr ""
+
+#. ja: 悪夢
+#. zh: 噩梦
+#. de: „Albtraum“
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#81/0"
+msgid "Nightmare"
+msgstr ""
+
+#. ja: 最大240FPS
+#. zh: 最大帧率240
+#. de: Max. 240 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#81/1"
+msgid "240 FPS max"
+msgstr ""
+
+#. ja: サウンドエフェクト
+#. zh: 音效
+#. de: Soundeffekte
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#83/0"
+msgid "Sound FX"
+msgstr ""
+
+#. ja: 最大90FPS
+#. zh: 最大帧率90
+#. de: Max. 90 BpS
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#84/0"
+msgid "90 FPS max"
+msgstr ""
+
+#. ja: ミュージック
+#. zh: 音乐
+#. de: Musik
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#84/1"
+msgid "Music"
+msgstr ""
+
+#. ja: 点滅なし
+#. zh: 无闪光
+#. de: Ohne Lichtblitze
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#85/0"
+msgid "Without flashes"
+msgstr ""
+
+#. ja: 振動あり
+#. zh: 有振动
+#. de: Ohne Vibration
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#85/1"
+msgid "With vibrations"
+msgstr ""
+
+#. ja: ラン
+#. zh: 跑动
+#. de: Rennen
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#89/0"
+msgid "run"
+msgstr ""
+
+#. ja: スタート
+#. zh: 开始
+#. de: Starten
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#90/0"
+msgid "start"
+msgstr ""
+
+#. ja: いいえ
+#. zh: 否
+#. de: Nein
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#91/0"
+msgid "No"
+msgstr ""
+
+#. ja: はい
+#. zh: 是
+#. de: Ja
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#92/0"
+msgid "Yes"
+msgstr ""
+
+#. ja: アクセシビリティ
+#. zh: 无障碍
+#. de: Barrierefreiheit
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#93/0"
+msgid "Accessibility"
+msgstr ""
+
+#. ja: フルスクリーン
+#. zh: 全屏
+#. de: Vollbild
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#93/1"
+msgid "Fullscreen"
+msgstr ""
+
+#. ja: 振動
+#. zh: 振动
+#. de: Vibration
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#94/0"
+msgid "Vibrations"
+msgstr ""
+
+#. ja: ウィンドウモード
+#. zh: 窗口视图
+#. de: Fenstermodus
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#95/0"
+msgid "Windowed"
+msgstr ""
+
+#. ja: 拡大テキスト
+#. zh: 放大文字
+#. de: Vergrößerter Text
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#95/1"
+msgid "Enlarged text"
+msgstr ""
+
+#. ja: ボーダレスモード
+#. zh: 无边框
+#. de: Randlos
+#: res://assets/trad/menu_text.en.translation
+msgctxt "menu_text#96/0"
+msgid "Bordeless"
+msgstr ""

@@ -1,0 +1,163 @@
+[
+ {
+  "term": "Accessibility",
+  "ko": "접근성",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Brutal",
+  "ko": "잔혹",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Classic Run",
+  "ko": "클래식 런",
+  "kind": "term",
+  "count": 1,
+  "source": "regex"
+ },
+ {
+  "term": "Credits",
+  "ko": "크레딧",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Fullscreen",
+  "ko": "전체 화면",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Infernal",
+  "ko": "지옥",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Infinite Run",
+  "ko": "무한 런",
+  "kind": "term",
+  "count": 2,
+  "source": "regex"
+ },
+ {
+  "term": "Language",
+  "ko": "언어",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Localization",
+  "ko": "현지화",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Music",
+  "ko": "음악",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "New Run",
+  "ko": "새 런",
+  "kind": "term",
+  "count": 1,
+  "source": "regex"
+ },
+ {
+  "term": "Nightmare",
+  "ko": "악몽",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "No Stress Mode",
+  "ko": "스트레스 없는 모드",
+  "kind": "term",
+  "count": 1,
+  "source": "regex"
+ },
+ {
+  "term": "Player outline",
+  "ko": "플레이어 외곽선",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Screenshake",
+  "ko": "화면 흔들림",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Settings",
+  "ko": "설정",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Sound FX",
+  "ko": "효과음",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Special Thanks",
+  "ko": "특별 감사",
+  "kind": "term",
+  "count": 1,
+  "source": "regex"
+ },
+ {
+  "term": "Speedrun",
+  "ko": "스피드런",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Vibrations",
+  "ko": "진동",
+  "kind": "term",
+  "count": 1,
+  "source": "spacy"
+ },
+ {
+  "term": "Path of Birds",
+  "ko": "새들의 길",
+  "kind": "term",
+  "count": 1,
+  "source": "manual"
+ },
+ {
+  "term": "Sprites outline",
+  "ko": "스프라이트 외곽선",
+  "kind": "term",
+  "count": 1,
+  "source": "manual"
+ },
+ {
+  "term": "Windowed",
+  "ko": "창 모드",
+  "kind": "term",
+  "count": 1,
+  "source": "manual"
+ }
+]

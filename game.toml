@@ -1,0 +1,7 @@
+slug = "run"
+steam_appid = 1548940
+adapter = "run"
+track = "c"
+pipeline_repo = "/mnt/h/02_Workspace/40_WSL/kjk-l10n-ko/tools-l10n-ko"
+pipeline_ref = "7d4660974a0643f5d786334376ea9b15a043fded"
+font = "neodunggeunmo"
